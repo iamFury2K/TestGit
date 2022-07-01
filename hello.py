@@ -1,3 +1,3 @@
 a,b = input("Enter a number")
 su = a + b
-print(su)
+print("Lol: ",su)
